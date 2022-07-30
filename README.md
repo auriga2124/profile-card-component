@@ -38,7 +38,7 @@ Mobile screenshot
 ### Links
 
 - Solution URL: [Frontend mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live site at Netlify](https://your-live-site-url.com)
+- Live Site URL: [Live site at Netlify](https://auriga-profile-card.netlify.app/)
 
 ## My process
 
