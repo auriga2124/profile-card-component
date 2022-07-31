@@ -32,7 +32,7 @@ Mobile screenshot
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-jS522aDJ6g)
 - Live Site URL: [Live site at Netlify](https://auriga-profile-card.netlify.app/)
 
 ## My process
